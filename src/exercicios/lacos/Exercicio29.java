@@ -1,5 +1,5 @@
 
-package exercicios;
+package exercicios.lacos;
 
 import java.math.BigInteger;
 import javax.swing.JOptionPane;

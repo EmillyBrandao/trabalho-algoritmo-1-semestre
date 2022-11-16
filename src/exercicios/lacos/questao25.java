@@ -1,3 +1,5 @@
+package exercicios.lacos;
+
 import javax.swing.JOptionPane;
 
 // algoritmo para calcular o MDC de dois numeros usando o metodo de euclides usando for

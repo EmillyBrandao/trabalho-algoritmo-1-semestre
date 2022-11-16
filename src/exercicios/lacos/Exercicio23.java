@@ -1,5 +1,5 @@
 
-package exercicios;
+package exercicios.lacos;
 
 import javax.swing.JOptionPane;
 

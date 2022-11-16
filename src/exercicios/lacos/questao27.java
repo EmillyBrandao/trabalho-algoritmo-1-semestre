@@ -1,3 +1,5 @@
+package exercicios.lacos;
+
 // tabela de equivalencia de unidades de temperatura, celcuis, fahrenheit e kelvin de 0 a 100
 
 import javax.swing.JOptionPane;

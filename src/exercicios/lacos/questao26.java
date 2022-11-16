@@ -1,3 +1,5 @@
+package exercicios.lacos;
+
 // ler um numero inteiro e imprimir se ele é primo ou nao usando for
 
 import javax.swing.JOptionPane;

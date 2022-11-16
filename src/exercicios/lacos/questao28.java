@@ -1,3 +1,5 @@
+package exercicios.lacos;
+
 // algoritmo que imprime a constante de euler
 
 import javax.swing.JOptionPane;

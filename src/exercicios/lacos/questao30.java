@@ -1,3 +1,5 @@
+package exercicios.lacos;
+
 // faca um algoritmo para imprimir a quantidade de numeros primos entre 1 e 1000
 
 import javax.swing.JOptionPane;
